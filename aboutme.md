@@ -4,7 +4,9 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Hi, I'm Marcus! I specialize in high-performance computing and distributed systems applied to biomedicine. Currently studying at URV, I combine bioengineering with cloud technologies to accelerate medical research.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/marcusrb/) or [GitHub](https://github.com/marcusRB).
 
 ### Education
 

@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Ferran Aran
+author: Marco Russo
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -18,7 +18,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/ferran.jpeg"
+avatar: "/images/marco_pic.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,12 +36,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
-  github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranaran
+  email: "mrussorb@gmail.com"
+  # facebook: ferranad
+  github: marcusRB
+  twitter: rb_marcus
+  youtube: "@marcusRB"
+  linkedin: marcusRB
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -55,10 +55,10 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: 0009-0007-9959-2526
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
+  kaggle: marcusRB
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
+url-pretty: "mrussorb.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
