@@ -39,5 +39,3 @@ Cloud‑native services like AWS HealthOmics democratise access to clinical‑gr
 1. AWS HealthOmics Documentation. (2025). *Amazon Web Services*. https://docs.aws.amazon.com/omics/
 2. Poplin, R. et al. (2018). "Scaling accurate genetic variant discovery to tens of thousands of samples." *Nature Genetics*. https://doi.org/10.1038/s41588-018-0148-y
 3. Nextflow + AWS HealthOmics Integration Guide. *Seqera Labs*. https://docs.nextflow.io/en/latest/aws.html
-
-*Have you tried HealthOmics or similar platforms? Let me know your thoughts!*
